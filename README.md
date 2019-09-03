@@ -11,5 +11,8 @@ http://www.opensource.org/licenses/MIT
 * https://www.7-zip.org/                 
 
 
+## ch02
+   the xor gate is implemeted via multi-layered perceptron
+   the process is quite funny, just similiar as in the class "digital electronic"
 
-
+## ch03   
