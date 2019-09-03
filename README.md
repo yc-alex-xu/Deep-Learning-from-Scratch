@@ -6,7 +6,7 @@ http://www.opensource.org/licenses/MIT
 
 ## INSTALLATION
 * https://www.anaconda.com/distribution/  Python 3.7/NumPy/Matplotlib
-   <img src="alex/simple_graph.png"  width="300" height="200"/>
+* <img src="alex/simple_graph.png"  width="300" height="200"/>
 * https://www.7-zip.org/                 
 
 
@@ -18,8 +18,8 @@ http://www.opensource.org/licenses/MIT
 ## ch03 Neural Network
 * activation function:  input ---h(x)---->y
   * sigmoid function
-      <img src="alex/sig_step_compare.png"  width="300" height="200"/>
+  * <img src="alex/sig_step_compare.png"  width="300" height="200"/>
   * step function
   * activation function must not be linear function
   * ReLU (Rectified linear unit) function
-      <img src="alex/ReLU.png"  width="300" height="200"/>
+  * <img src="alex/ReLU.png"  width="300" height="200"/>
